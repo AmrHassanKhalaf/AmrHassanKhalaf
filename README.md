@@ -33,7 +33,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHassanKhalaf&layout=compact&theme=radical&cache_seconds=86400"/>
 </p>
 
-
 ---
 
 ## 📞 Contact Me
