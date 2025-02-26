@@ -22,15 +22,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mo-Medhat-1&show_icons=true&theme=radical"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AmrHassanKhalaf&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Medhat-1&theme=radical"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrHassanKhalaf&theme=radical"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Medhat-1&layout=compact&theme=radical"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHassanKhalaf&layout=compact&theme=radical"/>
 </p>
 
 ---
