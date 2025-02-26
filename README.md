@@ -20,9 +20,8 @@
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AmrHassanKhalaf&show_icons=true&theme=radical&cache_seconds=86400"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AmrHassanKhalaf&show_icons=true&theme=radical&cache_seconds=1"/>
 </p>
 
 <p align="center">
@@ -30,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHassanKhalaf&layout=compact&theme=radical&cache_seconds=86400"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHassanKhalaf&layout=compact&theme=radical&cache_seconds=1"/>
 </p>
 
 ---
