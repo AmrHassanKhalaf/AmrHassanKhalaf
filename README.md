@@ -159,10 +159,10 @@ Additional training and certifications in: Python · Data Analysis · Artificial
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmrHassanKhalaf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Amr Hassan GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrHassanKhalaf&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=AmrHassanKhalaf&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Amr Hassan GitHub Stats"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmrHassanKhalaf&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=AmrHassanKhalaf&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AmrHassanKhalaf&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
